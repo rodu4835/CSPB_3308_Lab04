@@ -1,7 +1,6 @@
 # CSPB 3308 - Software Development
 ## Lab 4: Version Control
-
-### Ronald Durham - rodu4835
+Ronald Durham - rodu4835
 
 ## Objectives
  - [x] Create a git repository
