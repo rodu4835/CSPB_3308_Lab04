@@ -13,8 +13,8 @@ Ronald Durham - rodu4835
  - [x] 3. Clone the repository to your local machine.
  - [x] 4. Add and commit a simple README file with your name and the name of this assignment. 
  - [x] 5. Add and commit a few other files (anything you want) to the repository. 
- - [ ] 6. Create a tag named v0.0.1.
- - [ ] 7. Push all changes and tags to your remote repository (note that tags require a special flag to be included in the push).
+ - [x] 6. Create a tag named v0.0.1.
+ - [x] 7. Push all changes and tags to your remote repository (note that tags require a special flag to be included in the push).
  - [ ] 8. Create and checkout a new branch named testing-new-files.
  - [ ] 9. Add and commit a few more files to this branch.
  - [ ] 10. Checkout the master branch.
