@@ -9,7 +9,7 @@
  - [ ] Understand git
 
 ## Steps
-[ ] 1. If you do not already have one, create a GitHub account. Also apply for a student developer account.
+ - [ ] 1. If you do not already have one, create a GitHub account. Also apply for a student developer account.
 2. Create a Public git repository.
  - [x] Clone the repository to your local machine.
  - [x] Add and commit a simple README file with your name and the name of this assignment. 
