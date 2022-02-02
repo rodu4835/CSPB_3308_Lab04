@@ -34,10 +34,10 @@ Partner: Grant Fairbairn - grfa5712
  - [x] 22. Checkout your master branch.
  - [x] 23. Edit your README file to add a line that says "This might cause a merge conflict".
  - [x] 24. Commit your changes.
- - [ ] 25. Make sure that your partner has completed step 20 (pushed their changes to your README).
- - [ ] 26. Attempt to pull your partner's changes to your repository.
- - [ ] 27. Resolve the merge conflict if one occurs.
- - [ ] 28. Commit the merge (assuming a conflict occurred).
+ - [x] 25. Make sure that your partner has completed step 20 (pushed their changes to your README).
+ - [x] 26. Attempt to pull your partner's changes to your repository.
+ - [x] 27. Resolve the merge conflict if one occurs.
+ - [x] 28. Commit the merge (assuming a conflict occurred).
  - [ ] 29. Copy and paste the entry showing your merge resolution from the log into a text file.
  - [ ] 30. Push the merged changes back into your remote repo.
 
