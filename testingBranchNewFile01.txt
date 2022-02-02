@@ -1,1 +1,3 @@
 First file added to new branch
+
+File edit in the testing-new-files branch
