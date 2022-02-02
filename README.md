@@ -15,10 +15,10 @@ Ronald Durham - rodu4835
  - [x] 5. Add and commit a few other files (anything you want) to the repository. 
  - [x] 6. Create a tag named v0.0.1.
  - [x] 7. Push all changes and tags to your remote repository (note that tags require a special flag to be included in the push).
- - [ ] 8. Create and checkout a new branch named testing-new-files.
- - [ ] 9. Add and commit a few more files to this branch.
- - [ ] 10. Checkout the master branch.
- - [ ] 11. Edit at least one of the files in this branch and commit the change.
+ - [x] 8. Create and checkout a new branch named testing-new-files.
+ - [x] 9. Add and commit a few more files to this branch.
+ - [x] 10. Checkout the master branch.
+ - [x] 11. Edit at least one of the files in this branch and commit the change.
  - [ ] 12. Merge the testing-new-files branch into the master branch.
  - [ ] 13. Checkout the testing-new-files branch.
  - [ ] 14. Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
