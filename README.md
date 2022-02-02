@@ -19,10 +19,10 @@ Ronald Durham - rodu4835
  - [x] 9. Add and commit a few more files to this branch.
  - [x] 10. Checkout the master branch.
  - [x] 11. Edit at least one of the files in this branch and commit the change.
- - [ ] 12. Merge the testing-new-files branch into the master branch.
- - [ ] 13. Checkout the testing-new-files branch.
- - [ ] 14. Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
- - [ ] 15. Find a partner to work with.
+ - [x] 12. Merge the testing-new-files branch into the master branch.
+ - [x] 13. Checkout the testing-new-files branch.
+ - [x] 14. Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
+ - [x] 15. Find a partner to work with.
  - [ ] 16. Grant this person/these people write access to your remote repository.
  - [ ] 17. Clone your partner’s remote repository to a new directory outside your original repository.
  - [ ] 18. Edit the README file in your partner’s master branch to list your name as 'Partner: (Your name here)'.
