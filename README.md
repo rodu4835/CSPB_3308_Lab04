@@ -24,17 +24,20 @@ Ronald Durham - rodu4835
  - [x] 14. Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
  - [x] 15. Find a partner to work with.
  - [x] 16. Grant this person/these people write access to your remote repository.
- - [ ] 17. Clone your partner’s remote repository to a new directory outside your original repository.
- - [ ] 18. Edit the README file in your partner’s master branch to list your name as 'Partner: (Your name here)'.
- - [ ] 19. Commit your changes.
- - [ ] 20. Push your changes to your partner’s remote repository.
- - [ ] 21. Return to your original repository (but do not pull from your remote branch yet).
- - [ ] 22. Checkout your master branch.
- - [ ] 23. Edit your README file to add a line that says "This might cause a merge conflict".
- - [ ] 24. Commit your changes.
+ - [x] 17. Clone your partner’s remote repository to a new directory outside your original repository.
+ - [x] 18. Edit the README file in your partner’s master branch to list your name as 'Partner: (Your name here)'.
+ - [x] 19. Commit your changes.
+ - [x] 20. Push your changes to your partner’s remote repository.
+ - [x] 21. Return to your original repository (but do not pull from your remote branch yet).
+ - [x] 22. Checkout your master branch.
+ - [x] 23. Edit your README file to add a line that says "This might cause a merge conflict".
+ - [x] 24. Commit your changes.
  - [ ] 25. Make sure that your partner has completed step 20 (pushed their changes to your README).
  - [ ] 26. Attempt to pull your partner's changes to your repository.
  - [ ] 27. Resolve the merge conflict if one occurs.
  - [ ] 28. Commit the merge (assuming a conflict occurred).
  - [ ] 29. Copy and paste the entry showing your merge resolution from the log into a text file.
  - [ ] 30. Push the merged changes back into your remote repo.
+
+
+This might cause a merge conflict
