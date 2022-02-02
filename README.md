@@ -6,8 +6,8 @@ Partner: Grant Fairbairn - grfa5712
 
 ## Objectives
  - [x] Create a git repository
- - [ ] Work with another person and a git repository
- - [ ] Understand git
+ - [x] Work with another person and a git repository
+ - [x] Understand git
 
 ## Steps
  - [x] 1. If you do not already have one, create a GitHub account. Also apply for a student developer account.
@@ -38,8 +38,8 @@ Partner: Grant Fairbairn - grfa5712
  - [x] 26. Attempt to pull your partner's changes to your repository.
  - [x] 27. Resolve the merge conflict if one occurs.
  - [x] 28. Commit the merge (assuming a conflict occurred).
- - [ ] 29. Copy and paste the entry showing your merge resolution from the log into a text file.
- - [ ] 30. Push the merged changes back into your remote repo.
+ - [x] 29. Copy and paste the entry showing your merge resolution from the log into a text file.
+ - [x] 30. Push the merged changes back into your remote repo.
 
 
 This might cause a merge conflict
