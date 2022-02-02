@@ -2,6 +2,8 @@
 ## Lab 4: Version Control
 Ronald Durham - rodu4835
 
+Partner: Grant Fairbairn - grfa5712
+
 ## Objectives
  - [x] Create a git repository
  - [ ] Work with another person and a git repository
